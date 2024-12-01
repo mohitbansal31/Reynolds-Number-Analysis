@@ -13,7 +13,7 @@ This repository documents an experimental study on the Reynolds number, a dimens
 3. Calculate the Reynolds number for each flow regime using experimental data.
 
 ## Theory
-The Reynolds number (\(Re\)) is a critical parameter in fluid dynamics, defined as:
+The Reynolds number \(Re\) is a critical parameter in fluid dynamics, defined as:
 
 Re = $\frac{v \cdot l \cdot \rho}{\mu}$
 
